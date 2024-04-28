@@ -1,1 +1,1 @@
-# counter
+[counter](https://dashboard.heroku.com/new?template=https://github.com/LyfeBot9/counter)

@@ -1,0 +1,14 @@
+{
+    "name": "mongodb counter",
+    "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
+    "success_url": "/",
+    
+    "env": {    
+        "PORT": {
+            "description": "PORT",
+            "value": "3000",
+            "required" :false
+        }
+     }
+  }
+  
