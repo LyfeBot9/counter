@@ -6,7 +6,7 @@ const app = express();
 
 global.port = process.env.PORT ||  3000
 
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static('.public'));
 app.set("json spaces", 2);
 const mongoose = require('mongoose');
 let {UsersDb} = require("./lib");
